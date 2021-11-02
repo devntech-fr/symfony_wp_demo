@@ -4,3 +4,7 @@
 
 _wordpress:
   resource: "@WordpressBundle/config/routing.php"
+
+#home:
+#  path: /
+#  controller: App\Controller\HomeController::index
